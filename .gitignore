@@ -1,0 +1,5 @@
+.idea
+vendor
+tests/logs
+provision
+composer.lock
